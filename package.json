@@ -1,0 +1,15 @@
+{
+   "name": "lab8",
+   "version": "1.0.0",
+   "description": "lab8",
+   "main": "index.js",
+   "scripts": {
+      "watch": "sass main.scss style.css -w",
+      "compile": "sass main.scss style.css"
+   },
+   "author": "Tolibjon Latipov",
+   "license": "ISC",
+   "dependencies": {
+      "sass": "^1.68.0"
+   }
+}
